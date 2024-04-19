@@ -6,5 +6,5 @@ function stringIncludes(text1, text2) {
     }
 }
 
-console.log(stringIncludes("he", "Hello")); // Imprimir false
+console.log(stringIncludes("elo", "Hello")); // Imprimir false
 console.log(stringIncludes("he", "hello world")); // Imprimir true
